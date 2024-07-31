@@ -3,14 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Pandas\Excel files\weather_data.csv">
+        <entry key="\Pandas\Excel files\nyc_weather.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Pandas\nyc_weather.csv">
+        <entry key="\Pandas\Excel files\stock_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Pandas\Excel files\weather_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
